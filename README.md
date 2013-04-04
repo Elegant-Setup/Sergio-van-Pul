@@ -1,0 +1,1 @@
+Scratch script by Sergio van Pul for the "Elegante Algoritmen" competition of SETUP Utrecht
